@@ -1,0 +1,24 @@
+                                            precision    recall  f1-score   support
+
+                     Above ear - pull hair       0.75      0.65      0.70       510
+                        Cheek - pinch skin       0.69      0.63      0.66       510
+                     Drink from bottle/cup       0.86      0.93      0.90       510
+                       Eyebrow - pull hair       0.59      0.53      0.56       510
+                       Eyelash - pull hair       0.67      0.52      0.58       510
+Feel around in tray and pull out an object       0.91      0.92      0.91       510
+                  Forehead - pull hairline       0.75      0.59      0.66       510
+                        Forehead - scratch       0.67      0.67      0.67       510
+                            Glasses on/off       0.57      0.95      0.71       510
+                         Neck - pinch skin       0.74      0.62      0.67       510
+                            Neck - scratch       0.61      0.57      0.59       510
+                       Pinch knee/leg skin       0.93      0.92      0.93       510
+                 Pull air toward your face       0.74      0.70      0.72       510
+                     Scratch knee/leg skin       0.92      0.90      0.91       510
+                             Text on phone       0.66      0.57      0.61       510
+                                Wave hello       0.60      0.82      0.69       510
+                         Write name in air       0.74      0.79      0.76       510
+                         Write name on leg       0.94      0.92      0.93       510
+
+                                  accuracy                           0.73      9180
+                                 macro avg       0.74      0.73      0.73      9180
+                              weighted avg       0.74      0.73      0.73      9180
